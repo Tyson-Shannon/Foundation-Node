@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="Foundation Node" src="" /> <br />
+<img width="512" height="512" alt="Foundation Node" src="https://github.com/user-attachments/assets/920cc0c8-3b04-4f6a-bfff-7386aa0072e5" /> <br />
 The **Foundation Node** is a [UNet](https://github.com/Tyson-Shannon/UNet) to [TNet](https://github.com/Tyson-Shannon/TNet) data validation border node. This node will validate and sign UNet data so TNet can trust and store it.
 
 ## Goal
